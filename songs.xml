@@ -1,0 +1,27 @@
+<?xml version="1.0"?>
+<songList>
+<song>
+    <title>Africa</title>
+    <author>Toto</author>
+    <releaseDate>10.05.1982</releaseDate>
+    <howLong>4:55</howLong>
+</song>
+<song>
+    <title>We Are The Champions</title>
+    <author>Queen</author>
+    <releaseDate>7.10.1997</releaseDate>
+    <howLong>2:59</howLong>
+</song>
+<song>
+    <title>What a Wonderful World</title>
+    <author>Louisa Armstronga</author>
+    <releaseDate>18.10.1967</releaseDate>
+    <howLong>2:21</howLong>
+</song>
+<song>
+    <title>We Are the World</title>
+    <author>USA for Africa</author>
+    <releaseDate>28.01.1985</releaseDate>
+    <howLong>6:22</howLong>
+</song>
+</songList>
